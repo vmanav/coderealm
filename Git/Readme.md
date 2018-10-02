@@ -31,5 +31,12 @@ You can propose changes (add it to the Index) using<br>
 To send those changes to your remote repository, execute <br>
 > git push origin master<br>
 ### If you have not cloned an existing repository and want to connect your repository to a remote server, you need to add it with :<br>
+To actually commit these changes use <br>
+> git commit -m "Commit message"<br>
+Now the file is committed to the HEAD, but not in your remote repository yet.
+## Pushing the changes made :<br>
+To send those changes to your remote repository, execute <br>
+> git push origin master<br>
+If you have not cloned an existing repository and want to connect your repository to a remote server, you need to add it with :<br>
 > git remote add origin <server>
 
