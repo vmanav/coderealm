@@ -30,7 +30,7 @@ You can propose changes (add it to the Index) using<br>
 ## Pushing the changes made :<br>
 To send those changes to your remote repository, execute <br>
 > git push origin master<br>
-If you haven't cloned an existing repository and want to connect your repository to a remote server,add it with :<br>
+### If you haven't cloned an existing repository and want to connect your repository to a remote server,add it with :<br>
 > git remote add origin <server>
 
 
